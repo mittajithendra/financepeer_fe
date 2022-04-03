@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.input{
+  padding: 5px;
+  margin: 5px;
+}
 
 .App-logo {
   height: 40vmin;
@@ -13,9 +17,9 @@
   }
 }
 
-.App-header {
+.inputForm {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 90vh;
   display: flex;
   flex-direction: column;
   align-items: center;
